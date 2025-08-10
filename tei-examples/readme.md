@@ -8,7 +8,7 @@ You can view the original scanned text here:
 
 ## Original Text (Excerpt)
 
-![Excerpt from Theatrum Chemicum Britannicum, page 45](images/theatrum-text.png)
+![Excerpt from Theatrum Chemicum Britannicum, page 45](./images/theatrum-text.png)
 
 **Paragraph 1**
 
@@ -80,7 +80,7 @@ Therefore all poor men beware, said Arnold,
 For this art belongs to the great men of the world.  
 Trust his words, all you poor men,  
 For I am witness that so you shall find.  
-“Esto longanimis & suavis,” said he,  
+“Be patient and gentle,” said he,  
 For hasty men shall never see the end.  
 The length of cleansing of infected matters  
 Deceives many people, for that is unsuspected.  

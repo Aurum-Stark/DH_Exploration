@@ -3,53 +3,55 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sample TEI-XML Annotation of Alchemical Text</title>
-        <author>Anonymous</author>
+        <title>Excerpt from Theatrum Chemicum Britannicum (1652)</title>
+        <author>Elias Ashmole (editor)</author>
       </titleStmt>
       <publicationStmt>
-        <publisher>Internet Source</publisher>
-        <date>2025</date>
+        <publisher>Printed by J. Grismond for Nath: Brooke</publisher>
+        <date>1652</date>
       </publicationStmt>
       <sourceDesc>
-        <p>
-          Text excerpt from “Theatrum Chemicum Britannicum”, page 45.
-        </p>
+        <p>Source: Theatrum Chemicum Britannicum, p. 45, available at Internet Archive</p>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+    <p>The transcription retains original 17th-century spelling and the long s (ſ), which resembles a modern ‘f’ but represents the letter ‘s’.</p>
+  </encodingDesc>
   </teiHeader>
-
   <text>
     <body>
-      <div type="text" xml:id="alchemy-text">
-        <p xml:id="p1">
-          Avicen in Porta wrote, if ye remember,<lb/>
-          How ye ſhulde proceede perfection to ingender,<lb/>
-          Trewly teaching as the pure trewth was.<lb/>
-          <foreign xml:lang="la">Comedas ut bibas, et bibas ut Comedas,</foreign><lb/>
-          Eate as it drinketh, and drinke as it doth eate,<lb/>
-          And in the meane ſeaſon take it a perfect ſweate.<lb/>
-          Raſis set the Dietary and ſpake ſome deale farr,<lb/>
-          Nontamen comedatres feſtinanter,<lb/>
-          Let not your Matters eate over haftilie,<lb/>
-          But wiſely conſume their foode leaſurelie.<lb/>
-          Hereof the Prophet made wondrous mention,<lb/>
-          Yf ye applie it to this intention.
-        </p>
+    <div type="text" xml:id="alchemy-text">
+          <p xml:id="p1">
+            <persName>Avicen in Porta</persName> wrote, if ye remember,<lb/>
+            How ye ſhulde proceede perfection to ingender,<lb/>
+            Trewly teaching as the pure trewth was.<lb/>
+            <foreign xml:lang="la">Comedas ut bibas, et bibas ut Comedas,</foreign><lb/>
+            Eate as it drinketh, and drinke as it doth eate,<lb/>
+            And in the meane ſeaſon take it a perfect ſweate.<lb/>
+            Raſis set the Dietary and ſpake ſome deale farr,<lb/>
+            <foreign xml:lang="la">Nontamen comedatres feſtinanter,</foreign><lb/>
+            Let not your Matters eate over haftilie,<lb/>
+            But wiſely conſume their foode leaſurelie.<lb/>
+            Hereof the Prophet made wondrous mention,<lb/>
+            Yf ye applie it to this intention.
+          </p>
 
-        <p xml:id="p2">
-          <foreign xml:lang="la">Viſitaſti terram, & inebriaſti eam,</foreign><lb/>
-          <foreign xml:lang="la">Multiplicasti locupletare eam,</foreign><lb/>
-          <foreign xml:lang="la">Terram fructiferam in ſalſuginem,</foreign><lb/>
-          <foreign xml:lang="la">Et terram ſine aqua in exitus aquarum.</foreign><lb/>
-          If it I have plenty of Meate and of Drinke,<lb/>
+           <p xml:id="p2">
+           <foreign xml:lang="la">
+           Viſitaſti terram, &amp; inebriaſti eam,<lb/>
+           Multiplicasti locupletare eam,<lb/>
+           Terram fructiferam in ſalſuginem,<lb/>
+           Et terram ſine aqua in exitus aquarum.
+           </foreign><lb/>
+           If it I have plenty of Meate and of Drinke,<lb/>
           Men muſt wake when they deſire to winke:<lb/>
           For it is laboure of watch and paines great.<lb/>
           Alſo the Foode is full coſtly meate;<lb/>
-          Therefore all Poore men beware ſaid Arnold,<lb/>
+          Therefore all Poore men beware ſaid <persName>Arnold</persName>,<lb/>
           For this Arte longeth to greate men of the worlde.<lb/>
           Truſt to his words ye Poor men all,<lb/>
           For I am witnes that ſoe ye finde ſhall.<lb/>
-          Eſto longanimis & ſuavis ſaid he,<lb/>
+          <foreign xml:lang="la">Eſto longanimis &amp; ſuavis ſaid he,</foreign><lb/>
           For haſty men th’ end ſhall never ſee.<lb/>
           The lengthe of clenſing of Matters infected,<lb/>
           Deceyveth much People, for that is unſuſpected.<lb/>
@@ -57,7 +59,7 @@
           Such wonders to ſeech, but in ſeaſon ceaſe;<lb/>
           Exceſſ for one halfe quarter of an howre,<lb/>
           May deſtroy all : therefore cheeſe ſuccoure<lb/>
-          Is primum pro quo, & vultimum pro quo non,<lb/>
+          <foreign xml:lang="la">Is primum pro quo, &amp; vultimum pro quo non,</foreign><lb/>
           To know of the ſimperinge of our Stone.
         </p>
       </div>
