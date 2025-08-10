@@ -8,7 +8,7 @@ You can view the original scanned text here:
 
 ## Original Text (Excerpt)
 
-![Excerpt from Theatrum Chemicum Britannicum, page 45](./images/theatrum-text.png)
+![Excerpt from Theatrum Chemicum Britannicum, page 46](./images/sample-1.png)
 
 **Paragraph 1**
 
@@ -51,6 +51,8 @@ Is primum pro quo, & vultimum pro quo non,
 To know of the ſimperinge of our Stone.
 
 ## English Translation
+
+*Note: The translations provided here were done manually, by a human.*
 
 **Paragraph 1**
 

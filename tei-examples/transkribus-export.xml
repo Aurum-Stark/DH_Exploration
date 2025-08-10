@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.30.2:model_id=50870:lm=none:date=10_08_2025_21:15</Creator>
+        <Created>2025-08-10T21:14:57.846+02:00</Created>
+        <LastChange>2025-08-10T21:15:24.215+02:00</LastChange>
+        <TranskribusMetadata docId="10020550" pageId="101498007" pageNr="1" status="IN_PROGRESS" userId="424776" imgUrl="https://files.transkribus.eu/Get?id=CWTRBHWRLGDQJZZVUZTLZXFG&amp;fileType=view" imageId="85134220"/>
+    </Metadata>
+    <Page imageFilename="101498007.png" imageWidth="868" imageHeight="1240">
+        <TextRegion orientation="0.0" id="tr_1">
+            <Coords points="50,20 50,1186 684,1186 684,20"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="233,51 259,57 279,45 298,56 411,54 431,64 456,52 506,69 504,5 495,1 398,0 384,12 335,0 232,0"/>
+                <Baseline points="238,41 264,40 291,41 318,41 345,43 372,43 399,43 426,44 453,46 480,46 507,46"/>
+                <TextEquiv>
+                    <Unicode>Oeoiwati.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="55,96 582,98 568,55 352,68 274,45 227,67 142,36 54,53"/>
+                <Baseline points="60,88 86,88 112,86 138,86 164,85 191,85 217,86 243,85 269,86 295,86 322,86 348,86 374,86 400,86 426,88 453,88 479,89 505,89 531,89 557,89 584,89"/>
+                <TextEquiv>
+                    <Unicode>Tillit may noe more simper doe notccase,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="48,127 639,134 682,130 681,94 47,103"/>
+                <Baseline points="52,121 83,121 115,121 146,121 178,120 210,119 241,121 273,121 304,120 336,121 368,121 399,121 431,121 462,121 494,122 526,122 557,122 589,122 620,122 652,123 684,125"/>
+                <TextEquiv>
+                    <Unicode>And yetlonge Continuance may not caufe increafe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="47,162 598,169 598,134 574,127 47,128"/>
+                <Baseline points="52,153 79,153 106,152 134,153 161,151 189,152 216,153 243,153 271,151 298,153 326,153 353,153 380,153 408,154 435,153 463,153 490,154 517,155 545,156 572,156 600,160"/>
+                <TextEquiv>
+                    <Unicode>Rememberthat Water willbuble and boyle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="47,196 543,202 542,163 46,163"/>
+                <Baseline points="52,188 77,186 103,186 129,186 155,186 181,186 207,186 233,186 259,186 285,186 311,186 337,186 363,186 389,187 415,188 441,186 467,186 493,187 519,189 545,189"/>
+                <TextEquiv>
+                    <Unicode>But Butter must simper andalso Oyle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="47,228 527,236 541,235 540,199 46,202"/>
+                <Baseline points="52,221 77,219 103,219 129,219 155,218 180,219 206,219 232,219 258,219 284,219 309,219 335,219 361,219 387,219 413,220 438,221 464,221 490,222 516,223 542,225"/>
+                <TextEquiv>
+                    <Unicode>And soe withlong leafure it will waste,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="48,258 508,266 508,233 476,223 324,238 294,225 48,230"/>
+                <Baseline points="53,253 78,253 103,253 129,252 154,251 179,251 205,251 230,251 256,251 281,252 306,252 332,253 357,253 383,253 408,253 433,254 459,253 484,253 510,254"/>
+                <TextEquiv>
+                    <Unicode>Andnot with bubling made in hafte:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="48,293 533,302 552,267 47,264"/>
+                <Baseline points="53,285 78,285 103,285 128,285 153,285 178,285 203,285 228,285 253,286 278,286 303,286 328,286 353,285 378,286 403,286 428,286 453,286 478,287 503,287 528,289 554,289"/>
+                <TextEquiv>
+                    <Unicode>Fordoubt of perrills many moethenone.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="48,332 492,327 486,293 48,293"/>
+                <Baseline points="53,319 78,318 104,318 130,318 156,319 182,319 208,318 234,318 260,318 286,318 312,318 338,318 364,318 390,319 416,318 442,318 468,319 494,319"/>
+                <TextEquiv>
+                    <Unicode>And for fupergression ofour ftone.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="50,357 589,372 588,322 49,336"/>
+                <Baseline points="54,351 80,351 107,351 134,350 161,351 188,351 215,351 241,350 268,350 295,350 322,350 349,351 376,351 403,351 429,351 456,351 483,351 510,353 537,353 564,353 591,353"/>
+                <TextEquiv>
+                    <Unicode>Amongft groffe Workes the fowleft of all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="47,392 479,390 479,362 440,355 312,368 47,357"/>
+                <Baseline points="52,383 77,384 102,384 127,384 152,384 178,383 203,383 228,384 253,384 279,384 304,383 329,383 354,383 380,383 405,383 430,383 455,383 481,383"/>
+                <TextEquiv>
+                    <Unicode>Is to clarifie our meanes Minerall.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="49,422 538,432 538,390 518,387 49,391"/>
+                <Baseline points="54,418 79,418 105,418 130,418 156,418 181,416 207,416 232,418 258,417 283,418 309,417 334,416 360,416 385,418 411,418 436,418 462,418 487,418 513,419 539,422"/>
+                <TextEquiv>
+                    <Unicode>Extremities may not be well wronght,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="51,465 530,456 522,422 51,424"/>
+                <Baseline points="56,449 81,449 106,449 131,449 156,450 181,451 206,449 231,449 256,449 281,450 306,449 331,449 356,449 381,449 406,449 431,450 456,450 481,449 506,451 531,451"/>
+                <TextEquiv>
+                    <Unicode>Withour many Meanes wisely fought.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="48,492 529,498 520,455 300,455 275,469 48,457"/>
+                <Baseline points="53,484 78,483 103,484 128,483 153,483 178,483 203,483 229,483 254,483 279,483 304,483 329,482 354,483 380,483 405,484 430,484 455,483 480,484 505,486 531,486"/>
+                <TextEquiv>
+                    <Unicode>Andeverie Meane mustbe made purc,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="48,522 467,523 467,497 415,489 48,491"/>
+                <Baseline points="53,513 78,515 104,516 130,515 156,515 182,516 208,516 234,516 260,516 286,516 312,515 338,516 364,516 390,516 416,516 442,517 468,517"/>
+                <TextEquiv>
+                    <Unicode>Ifthis worke fhulde be made fure.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="49,557 513,559 513,523 173,535 49,521"/>
+                <Baseline points="54,548 79,548 105,548 130,549 156,549 182,549 207,549 233,549 258,549 284,549 310,549 335,549 361,549 386,548 412,549 438,549 463,549 489,549 515,549"/>
+                <TextEquiv>
+                    <Unicode>For foule and cleane by naturall lawe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="48,588 568,587 589,603 639,587 638,552 47,556"/>
+                <Baseline points="52,580 81,581 110,581 140,581 169,581 199,581 228,581 257,582 287,583 316,583 346,583 375,583 404,583 434,583 463,583 493,583 522,584 551,584 581,584 610,583 640,583"/>
+                <TextEquiv>
+                    <Unicode>Hath greate difcord, and foe hath ripe and rawe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="48,620 552,627 552,595 533,588 48,590"/>
+                <Baseline points="53,613 78,614 103,613 128,614 153,613 178,614 203,614 228,614 253,614 278,614 303,614 328,613 353,614 378,614 403,614 428,614 453,614 478,615 503,616 528,616 554,616"/>
+                <TextEquiv>
+                    <Unicode>Stedfaft to ftedfaft will it felle combinde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="47,651 582,657 573,622 47,620"/>
+                <Baseline points="52,648 78,648 105,646 131,648 158,646 185,646 211,646 238,646 264,646 291,646 318,646 344,646 371,646 397,646 424,646 451,646 477,646 504,647 530,648 557,648 584,646"/>
+                <TextEquiv>
+                    <Unicode>And fleeting to fleeting will draweby kinde:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:20;}">
+                <Coords points="47,689 599,697 599,660 561,654 47,656"/>
+                <Baseline points="52,680 79,680 106,680 134,678 161,678 189,678 216,679 244,680 271,680 299,680 326,680 353,680 381,680 408,680 436,680 463,680 491,681 518,681 546,682 573,682 601,684"/>
+                <TextEquiv>
+                    <Unicode>Andever where asthe Concordanceis more,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="47,718 617,727 616,686 47,688"/>
+                <Baseline points="52,713 80,713 108,713 137,713 165,711 193,713 222,713 250,711 278,712 307,713 335,711 363,711 392,711 420,713 448,713 477,713 505,713 533,714 562,715 590,716 619,720"/>
+                <TextEquiv>
+                    <Unicode>Natures will drawe that were elswhere before;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:22;}">
+                <Coords points="52,756 474,748 552,769 552,719 52,721"/>
+                <Baseline points="57,746 83,746 109,746 135,746 161,746 187,745 213,746 240,746 266,745 292,745 318,745 344,745 370,746 397,746 423,746 449,746 475,746 501,748 527,749 554,750"/>
+                <TextEquiv>
+                    <Unicode>Thisgroffe Worke is fowle in her kinde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:23;}">
+                <Coords points="51,786 518,786 518,754 477,750 51,755"/>
+                <Baseline points="56,779 81,779 107,779 133,778 159,778 184,776 210,776 236,777 262,778 288,778 313,779 339,778 365,778 391,778 416,778 442,779 468,779 494,779 520,781"/>
+                <TextEquiv>
+                    <Unicode>Andfull of perrills as yeshall it finde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:24;}">
+                <Coords points="54,820 533,822 533,786 507,784 54,788"/>
+                <Baseline points="59,813 84,811 109,812 134,812 159,811 184,811 209,811 234,811 259,811 284,811 309,811 334,811 359,811 384,811 409,811 434,813 459,813 484,813 509,814 535,813"/>
+                <TextEquiv>
+                    <Unicode>Nomans wirt can him soe much availe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:25;}">
+                <Coords points="49,853 556,852 549,817 49,819"/>
+                <Baseline points="54,844 79,844 104,845 129,845 154,844 180,844 205,843 230,843 255,843 280,844 306,844 331,844 356,844 381,844 406,846 432,846 457,846 482,846 507,844 532,846 558,847"/>
+                <TextEquiv>
+                    <Unicode>But that fometymehe fhall make afayle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:26;}">
+                <Coords points="48,894 313,880 575,896 575,853 556,850 48,861"/>
+                <Baseline points="53,879 79,879 105,878 131,879 157,879 184,879 210,878 236,878 262,877 288,876 315,876 341,878 367,878 393,878 419,878 446,878 472,878 498,878 524,879 550,879 577,882"/>
+                <TextEquiv>
+                    <Unicode>As well as the Lay-man soe fhall the Clerke,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:27;}">
+                <Coords points="49,919 508,920 508,891 472,883 49,888"/>
+                <Baseline points="54,912 79,911 104,912 129,911 155,911 180,911 205,911 230,910 256,909 281,909 306,910 332,908 357,910 382,910 407,910 433,910 458,910 483,911 509,910"/>
+                <TextEquiv>
+                    <Unicode>And all that labour the groffe werke:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:28;}">
+                <Coords points="55,951 531,956 531,917 55,922"/>
+                <Baseline points="60,941 86,943 112,943 138,943 165,943 191,943 217,941 243,941 270,941 296,941 322,943 349,943 375,943 401,943 427,944 454,944 480,944 506,945 533,946"/>
+                <TextEquiv>
+                    <Unicode>Whereof Anaxagoras laid trewlie thus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:29;}">
+                <Coords points="51,980 361,979 405,994 500,981 492,949 51,956"/>
+                <Baseline points="56,976 82,976 108,976 134,975 160,976 187,975 213,975 239,975 265,975 292,975 318,975 344,975 370,975 397,975 423,976 449,975 475,976 502,975"/>
+                <TextEquiv>
+                    <Unicode>Nemo primo fronte reperitur discretus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:30;}">
+                <Coords points="48,1021 367,1013 449,1034 449,988 425,980 406,993 332,980 292,993 265,981 170,993 68,983 48,996"/>
+                <Baseline points="53,1011 79,1011 106,1009 132,1009 159,1009 185,1009 212,1009 238,1009 265,1009 291,1008 318,1009 344,1009 371,1009 397,1009 424,1011 451,1012"/>
+                <TextEquiv>
+                    <Unicode>Andonce Iheard a wise man say.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:31;}">
+                <Coords points="45,1055 152,1043 183,1054 259,1044 401,1053 401,1023 362,1013 341,1023 312,1013 291,1023 45,1019"/>
+                <Baseline points="50,1043 75,1043 100,1041 125,1043 150,1041 176,1042 201,1042 226,1041 251,1041 276,1041 302,1041 327,1041 352,1041 377,1041 403,1041"/>
+                <TextEquiv>
+                    <Unicode>How in Catilonia at this day,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:32;}">
+                <Coords points="49,1082 500,1090 493,1040 366,1057 49,1049"/>
+                <Baseline points="54,1076 80,1075 106,1075 133,1075 159,1075 185,1075 212,1075 238,1075 264,1075 291,1075 317,1075 343,1075 370,1075 396,1075 422,1075 449,1076 475,1076 502,1080"/>
+                <TextEquiv>
+                    <Unicode>Magnetia with Minerall meanes all,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:33;}">
+                <Coords points="51,1115 478,1117 478,1085 455,1078 412,1091 388,1079 51,1082"/>
+                <Baseline points="56,1108 82,1109 109,1109 135,1108 162,1108 188,1108 215,1108 241,1108 268,1108 294,1106 321,1107 347,1108 374,1108 400,1108 427,1108 453,1108 480,1106"/>
+                <TextEquiv>
+                    <Unicode>Bemadeto faleit ye forthem call,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:34;}">
+                <Coords points="55,1151 534,1155 534,1113 513,1108 355,1126 323,1112 55,1114"/>
+                <Baseline points="60,1141 85,1140 110,1141 135,1141 160,1141 185,1141 210,1141 235,1141 260,1141 285,1141 310,1141 335,1141 360,1141 385,1141 410,1141 435,1141 460,1141 485,1140 510,1141 535,1143"/>
+                <TextEquiv>
+                    <Unicode>Whereby the honds of acleanly Clerke,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:35;}">
+                <Coords points="48,1194 142,1180 260,1201 299,1184 539,1199 539,1154 495,1144 435,1158 48,1153"/>
+                <Baseline points="53,1174 78,1176 104,1176 130,1176 155,1176 181,1174 207,1176 232,1174 258,1175 284,1175 309,1174 335,1176 361,1176 386,1176 412,1176 438,1176 463,1174 489,1174 515,1173 541,1174"/>
+                <TextEquiv>
+                    <Unicode>Shall norbe filed abour fo foule a werke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2">
+            <Coords points="749,32 749,113 844,113 844,32"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="786,66 791,65 801,72 807,68 816,74 824,69 831,69 827,12 822,12 815,19 811,19 807,15 799,18 793,13 787,19 783,19"/>
+                <Baseline points="791,54 831,57"/>
+                <TextEquiv>
+                    <Unicode>47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="745,104 758,112 770,109 779,117 790,112 803,113 811,107 831,115 835,111 842,112 841,88 825,79 816,85 803,78 798,81 765,66 761,70 743,69"/>
+                <Baseline points="749,98 780,98 812,101 844,102"/>
+                <TextEquiv>
+                    <Unicode>Chap.4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
